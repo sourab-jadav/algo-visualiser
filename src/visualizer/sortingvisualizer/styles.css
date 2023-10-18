@@ -1,0 +1,51 @@
+.visualizer-box {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  width: 100%;
+}
+
+.controller-box {
+  align-items: center;
+  display: flex;
+  flex: 2;
+  flex-direction: row;
+  flex-grow: 0;
+  justify-content: center;
+  min-height: 275px;
+  width: 100%;
+}
+
+.visualizer-header-box {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-bottom: 1px;
+  width: 100%;
+}
+
+.visualizer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 0;
+  justify-content: center;
+  min-height: 700px;
+  width: 100%;
+  background-color: white;
+}
+
+.speed-selector-box {
+  align-items: flex-end;
+  display: flex;
+  flex: 4;
+  flex-direction: column;
+}
+
+#visualizer {
+  min-width: 100%;
+  padding-bottom: 3%;
+  width: 0;
+}

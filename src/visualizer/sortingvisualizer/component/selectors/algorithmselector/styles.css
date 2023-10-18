@@ -1,0 +1,14 @@
+#algorithm-selector-drop-down-arrow {
+  align-items: center;
+  color: #8789b5;
+  display: flex;
+  font-size: 17px;
+  justify-content: flex-end;
+  width: 120px;
+}
+
+.algorithm-selector-holder {
+  display: flex;
+  transform: translate(-15px, 10px);
+  width: 120px;
+}

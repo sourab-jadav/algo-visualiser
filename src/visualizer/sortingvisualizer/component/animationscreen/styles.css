@@ -1,0 +1,32 @@
+.list {
+  align-items: flex-end;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  min-height: 100px;
+}
+
+.container-one {
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+}
+
+.spaced-out-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 370px;
+  padding-top: 25px;
+}
+
+.stack-arr {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.empty-space-for-merge-sort {
+  box-sizing: border-box;
+  height: 150px;
+}

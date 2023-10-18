@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+  min-height: 105vh;
+  overflow: hidden;
+  padding-bottom: 5vh;
+}
+
+.wrapper {
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  scroll-padding-top: 59px;
+}
+
+.app {
+  display: flex;
+}
+
+.app-container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
